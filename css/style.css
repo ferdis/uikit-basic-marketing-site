@@ -1,0 +1,22 @@
+/** Adds 50% of remainder padding to forms within navbar **/
+.uk-navbar .uk-form {
+	padding-top: 5px;
+}
+
+/** Fix for off-canvas navbar headings and dividers having 15px left padding **/
+/** Normalize ul **/
+.uk-nav-offcanvas .uk-nav-sub {
+	padding-left: 0;
+}
+
+/** Re-add padding to li **/
+.uk-nav-offcanvas .uk-nav-sub li {
+	padding-left: 15px;
+}
+
+/** Set a negative margin, and add x2 padding **/
+.uk-nav-offcanvas .uk-nav-sub .uk-nav-divider,
+.uk-nav-offcanvas .uk-nav-sub .uk-nav-header {
+	margin-left: -15px;
+	padding-left: 30px;
+}
