@@ -6,6 +6,10 @@ There are a few incosistancies between UIKit and Bootstrap, and they begin to sh
 
 Another inconsitancy was Boostrap's hero unit - UIKit doesn't have that. What UIKit does have is panels and an article component. Both were added to demonstrate the differences between them.
 
+Example
+---
+An example can be found at: http://nands.github.io/uikit-basic-marketing-site/
+
 Why
 ---
 The idea behind this(and other uikit-*) repositories is to act as a comparison between UIKit and Bootstrap with regards to looks and design, functionality and markup.
